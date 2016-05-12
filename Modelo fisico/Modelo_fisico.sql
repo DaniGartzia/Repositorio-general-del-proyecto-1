@@ -109,6 +109,9 @@
     
     
     
+  INSERT INTO TRABAJADOR VALUES('11111111A','Admin', 'Admin', 'Admin', '' , '', '' , '', '', '' , '', '', '', 'A');
+  INSERT INTO USUARIOBD VALUES('admin', 'admin', '11111111A');
+    
     
     
     
